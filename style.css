@@ -1,0 +1,21 @@
+body {
+    background-color: #313131;
+}
+
+nav{
+    text-align: center;
+    font-size: 2vh;
+    
+  
+}
+
+a{
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    padding: 2vh;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
